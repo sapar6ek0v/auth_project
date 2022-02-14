@@ -1,0 +1,15 @@
+.sign-in {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: #252825;
+    padding: 40px;
+    border-radius: 4px;
+}
+.sign-in-input {
+    margin-bottom: 15px;
+}
+.sign-in-btn {
+    margin: 0 auto;
+}
